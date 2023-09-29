@@ -99,8 +99,7 @@ h2{
     flex-wrap: wrap;
 }
 .content-4 p{
-    color: #260a68;
-    border: 1px black solid;    
+    color: #260a68; 
 }
 .cat2 {
     float: left;
